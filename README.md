@@ -11,3 +11,5 @@ Task 2: topic classification, to predict whether a news article is about Interna
 
 
 ![Capture](https://user-images.githubusercontent.com/55988027/156762343-6c6ebc47-6b22-45dd-984a-71266c2397ef.PNG)
+
+Pull Requests Welcome
